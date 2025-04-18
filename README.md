@@ -5,7 +5,7 @@
 
 🔧 Passionate about building scalable, high-performance web applications with clean, maintainable code.
 
-🚀 5+ years of experience crafting full-stack solutions using **Ruby on Rails**, **ReactJS**, and **modern web technologies**.
+🚀 6+ years of experience crafting full-stack solutions using **Ruby on Rails**, **ReactJS**, and **modern web technologies**.
 
 📍 Based in India | Open to remote & hybrid opportunities globally
 

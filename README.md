@@ -5,9 +5,11 @@
 
 🔧 Passionate about building scalable, high-performance web applications with clean, maintainable code.
 
-🚀 6+ years of experience crafting full-stack solutions using **Ruby on Rails**, **ReactJS**, and **modern web technologies**.
+🚀 7+ years of experience crafting full-stack solutions using **Ruby on Rails**, **ReactJS**, and **modern web technologies**.
 
 📍 Based in India | Open to remote & hybrid opportunities globally
+
+🌐 Check my details: https://dheerajkushwah96.github.io/
 
 ---
 
@@ -38,6 +40,7 @@
 - 📧 [dheerajkushwah2015@gmail.com](mailto:dheerajkushwah2015@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/dheerajkushwah)  
 - 🧑‍💻 [GitHub](https://github.com/dheerajkushwah96)
+- 🌐 [Resume](https://dheerajkushwah96.github.io/)
 
 ---
 
